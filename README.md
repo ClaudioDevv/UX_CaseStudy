@@ -23,8 +23,6 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Gerardo Pérez Triviño     :octocat:     
  * :bust_in_silhouette:  Claudio Rivas Boza     :octocat:  https://github.com/ClaudioDevv
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
 <br>
@@ -35,14 +33,11 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El sector fast food de hamburguesas ha evolucionado hacia experiencias mas personalizadas y de mayor calidad. En el contexto turístico de Granada, los consumidores buscan rápidez, calidad y una mejor experiencia que en los servicios de fast food tradicionales. Nuestro análisis se centrará en evaluar la experriencia digital de Goiko como referente nacional, identificando cómo transmite esas experiencias, y qué llama la atención a los clientes. La estrategia de investigación combinará análisis heurístico, observación de usuarios jóvenes (18-30 años) y estudio comparativo con competidores directos para poder encontrar puntos de mejora.
 
 
 ### 1.b Competitive Analysis
