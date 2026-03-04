@@ -52,10 +52,7 @@ El sector fast food de hamburguesas ha evolucionado hacia experiencias mas perso
 
 
 - **Objetivos de investigación:**
-  1. Evaluar si un usuario puede encontrar la carta en menos 15 segundos.
-  2. Medir si realizar un pedido online puede completarse en menos de 3 minutos.
-  3. Analizar si la propuesta de valor se entiende en los primeros 10 segundos de navegación.
-  4. Identificar distracciones durante el pedido.
+
 
 - **Experiencia del equipo / justificación**  
   *Diseñador*  
@@ -69,32 +66,62 @@ El sector fast food de hamburguesas ha evolucionado hacia experiencias mas perso
 
 
 #### 2. Metodología (The "How")
+Basamos la metodología en el Framework tridimensional de Christian Rohrer combinando:
+- Attitudinal vs Behavioural
+- Qualitative vs Quantitative
+- Context of use
 
-INdicar las herramientas a utilizar, p.e. 
+Métodos seleccionados
+- Información cualitativa
+  - Pruebas de usabilidad: Realizar pruebas de usabilidad de la plataforma para observar como los usuarios interactuan con ella, identificar áreas de confusión y retroalimentar sobre la experiencia de usuario.
+  - Observación directa: Observar directamente a los usuarios mientras navegan por la plataforma y realizan el pedido.
+  - Entrevistas en profundidad: Realizar entrevistas en profundidad con usuarios para explorar sus experiencias pasadas al pedir comida rápida, sus expectativas y problemas que haya encontrado.
 
-- **Cuantitativa:** El cuestionario **SUS** para obtener una nota numérica.
-- **Biométrica:** **Eye Tracking** para ver el comportamiento visual real.
-- **Comparativa:** El **A/B Testing** para medir tu diseño contra el de tu compañero.
+- Información cuantitativa
+  - Cuestionario SUS (System Usability Scale). Obtener una puntuación numérica de usabilidad global.
+  - Datos de uso de la plataforma: Recopilar datos sobre la actividad de los usuarios en la plataforma como el número de visitas, la duración de las sesiones y las acciones realizadas.
+  - Datos demográficos y de segmentación: Recopilar datos demográficos de los usuarios, como edad, género, ubicación geográfica e intereses relacionados con la comida rápida para comprender mejor su perfil.
 
-Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
-
-
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
-
-ref: https://www.nngroup.com/articles/which-ux-research-methods/
 
 #### 3. Perfil de los Participantes (The "Who")
 
-Define a quién vas a reclutar.
-
-- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
-  
-- **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
+- Jóvenes de 18 a 30 años.
+- Personas que usen de forma habitual el móvil
+- Personas que utilizan plataformas de comida rápida
+- Uso de gafas permitido (no se realizará eye tracking real)
 
 
 
 #### 4. Guion y Tareas (The "What")
+
+- Escenario 1
+  Quieres cenar con amigos este fin de semana y estás buscando una hamburguesería interesante.
+  
+  Tareas:
+  1. Encuentra la carta.
+  2. Identifica la hamburguesa más premium.
+  3. Busca si hay opciones vegetarianas.
+  4. Comprueba si se puede reservar mesa.
+     
+Mediciones:
+- Tiempo por tarea
+- Dudas observadas
+- Nivel de confianza
+
+Escenario 2
+Tienes hambre y quieres pedir una hamburguesa para que llegue a casa
+
+Tareas:
+1. Encuentra el botón de “Pedir”.
+2. Selecciona una hamburguesa y añádela al carrito.
+3. Personalízala (ingredientes o extras).ç
+4. Simula completar el pedido hasta antes del pago.
+   
+Mediciones:
+- Tiempo total
+- Número de clics
+- Momentos de fricción
+- Errores
 
 ¿Qué le vas a pedir al usuario que haga exactamente?
 
@@ -106,10 +133,15 @@ Define a quién vas a reclutar.
 
 
 #### 5. Cronograma y Entregables
+Semana 1:
+- Diseño del research plan
+- Reclutamiento
+- Preparación guion
 
-> Simplemente enumerar los entrañables que se suponen se van a desarrollar con el estudio
-
-- p.e.  **Usability Report** final con las recomendaciones de mejora.
+Semana 2:
+- Realización de pruebas
+- Análisis resultados
+- Redacción informe
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
