@@ -39,6 +39,77 @@ Miembros y nombre del equipo:
 -----
 El sector fast food de hamburguesas ha evolucionado hacia experiencias mas personalizadas y de mayor calidad. En el contexto turístico de Granada, los consumidores buscan rápidez, calidad y una mejor experiencia que en los servicios de fast food tradicionales. Nuestro análisis se centrará en evaluar la experriencia digital de Goiko como referente nacional, identificando cómo transmite esas experiencias, y qué llama la atención a los clientes. La estrategia de investigación combinará análisis heurístico, observación de usuarios jóvenes (18-30 años) y estudio comparativo con competidores directos para poder encontrar puntos de mejora.
 
+#### 1. Antecedentes y Objetivos (The "Why")
+
+- **Contexto:**
+  El sector fast food ha evolucionado hacia una experiencia que combina rapidez y calidad. Goiko es una de las hamburgueserías premium accesible, con icono reconocible y buen marketing.
+
+  Evaluamos su web por los siguientes motivos:
+  - Es la principal fuente de ventas y marketing.
+  - La expriencia digital influye en las opciones a elegir.
+  - Queremos evaluar si su web responde correctamente a los distintos perfiles de usuario.
+  - El sector turístico y urbano (como Granada) exige rápidez y diferenciación.
+
+
+- **Objetivos de investigación:**
+  1. Evaluar si un usuario puede encontrar la carta en menos 15 segundos.
+  2. Medir si realizar un pedido online puede completarse en menos de 3 minutos.
+  3. Analizar si la propuesta de valor se entiende en los primeros 10 segundos de navegación.
+  4. Identificar distracciones durante el pedido.
+
+- **Experiencia del equipo / justificación**  
+  *Diseñador*  
+  Hemos trabajado en el análisis de interfaces web y conocemos los patrones de navegación E-commerce.
+
+  *StakeHolders*  
+  Somos consumidores habituales de fast food y entendemos que lo que llama la atención y lo que genera abandono.
+
+  *Observadores*  
+  Detectamos que muchos usuarios abandonan webs de restaurantes cuando el proceso de pedido es largo o poco claro.
+
+
+#### 2. Metodología (The "How")
+
+INdicar las herramientas a utilizar, p.e. 
+
+- **Cuantitativa:** El cuestionario **SUS** para obtener una nota numérica.
+- **Biométrica:** **Eye Tracking** para ver el comportamiento visual real.
+- **Comparativa:** El **A/B Testing** para medir tu diseño contra el de tu compañero.
+
+Se pueden relacionar sobre el panorama de **Framework tridimensional de métodos UX** de Christian Rohrer (attitudinal Vs Behavioural, Qualitative VS Quantitative, Context of Use)
+
+
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QkF2uE-NsI0piP90AQkF-A.png" alt="UX Reaearch Methods" style="height:450px" />
+
+ref: https://www.nngroup.com/articles/which-ux-research-methods/
+
+#### 3. Perfil de los Participantes (The "Who")
+
+Define a quién vas a reclutar.
+
+- **Criterios de inclusión:** Edad, nivel de competencia digital, si usan gafas (por el eye tracking), etc.
+  
+- **Segmentación:** Usuarios de clase (co-evaluación) vs. usuarios externos.
+
+
+
+#### 4. Guion y Tareas (The "What")
+
+¿Qué le vas a pedir al usuario que haga exactamente?
+
+- "Busca el producto X y añádelo al carrito".
+  
+- "Encuentra el horario de apertura de la tienda".
+  
+
+
+
+#### 5. Cronograma y Entregables
+
+> Simplemente enumerar los entrañables que se suponen se van a desarrollar con el estudio
+
+- p.e.  **Usability Report** final con las recomendaciones de mejora.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
