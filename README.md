@@ -53,6 +53,12 @@ El sector fast food de hamburguesas ha evolucionado hacia experiencias mas perso
 
 - **Objetivos de investigación:**
 
+  | Objetivos | KPIs |
+  | :--- | :--- |
+  | **Entender las preferencias y necesidades de los usuarios** | • Porcentaje de usuarios que valoran la facilidad de uso de la plataforma como "excelente" o "muy buena" en encuestas.<br>• Tasa de retención tras el primer pedido/reserva, indicando satisfacción y compromiso inicial. |
+  | **Ofrecer experiencias con la hamburguesa como núcleo central** | • Pedidos realizados por localización (tienda/evento).<br>• Conversión por ticket medio (precio).<br>• Volumen de ventas de "burgers de edición limitada" frente a carta fija.<br>• Packs de experiencia contratados (ej: menús degustación o eventos). |
+  | **Mejorar la experiencia de usuario (UX) en la plataforma** | • Tiempo medio para completar un pedido o reserva (eficiencia del flujo).<br>• Tasa de abandono en el carrito o proceso de reserva (identificación de fricciones). |
+  | **Aumentar la participación y la fidelización** | • Número de usuarios que participan en eventos especiales (tipo *The Champions Burger*) a través de la web.<br>• Tasa de conversión de usuarios que realizan un pedido tras explorar las promociones exclusivas. |
 
 - **Experiencia del equipo / justificación**  
   *Diseñador*  
@@ -94,7 +100,7 @@ Métodos seleccionados
 
 #### 4. Guion y Tareas (The "What")
 
-- Escenario 1
+- Escenario 1  
   Quieres cenar con amigos este fin de semana y estás buscando una hamburguesería interesante.
   
   Tareas:
@@ -108,7 +114,7 @@ Mediciones:
 - Dudas observadas
 - Nivel de confianza
 
-Escenario 2
+Escenario 2  
 Tienes hambre y quieres pedir una hamburguesa para que llegue a casa
 
 Tareas:
@@ -129,9 +135,6 @@ Mediciones:
   
 - "Encuentra el horario de apertura de la tienda".
   
-
-
-
 #### 5. Cronograma y Entregables
 Semana 1:
 - Diseño del research plan
@@ -146,8 +149,29 @@ Semana 2:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Para este análisis, hemos seleccionado plataformas que ofrecen una experiencia **"Fast-Casual"**, un peldaño por encima del *fast food* tradicional (como Burger King o McDonald's), priorizando la calidad del producto y la identidad de marca.
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+* **The Champions Burger:** Referente en el sector por su enfoque experiencial. Es un evento de gran impacto entre el público joven en toda España, donde compiten las mejores hamburgueserías del país.
+* **Five Guys:** Representa la evolución del *fast food* clásico. Su éxito radica en un equilibrio entre calidad y sabor, manteniendo una presencia en ciudades clave como Granada.
+
+El siguiente mapa ubica a los competidores según su propuesta de valor y coste al consumidor:
+
+<div align="center">
+  <img width="500" alt="comparativa calidad precio" src="https://github.com/user-attachments/assets/52735fe6-2741-4bcd-b9df-a1f1509acfe9" />
+</div>
+
+<br>
+
+Además podemos incluir una tabla comparativa entre estas plataformas.
+
+| Marca | Posicionamiento | UX Web | Fortalezas | Debilidades |
+| :--- | :--- | :--- | :--- | :--- |
+| **Goiko** | Gourmet accesible | Visual potente | Branding fuerte | Algunos pasos extra en pedido |
+| **Five Guys** | Americana clásica | Simple | Claridad menú | Menos emocional |
+| **The Champions Burger** | Evento experiencial | Informativa | Impacto visual | No centrada en pedido continuo |
+
+
+Tras evaluar las distintas alternativas, se elige a **The Champions Burger** como el competidor más relevante para este estudio. Su modelo no solo se centra en el producto (la hamburguesa), sino que mejora la oferta mediante una **experiencia de usuario expandida** y eventos únicos, diferenciándose claramente de los servicios de restauración convencionales.
 
 
 ### 1.c Personas
