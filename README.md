@@ -189,13 +189,17 @@ Tras evaluar las distintas alternativas, se elige a **The Champions Burger** com
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento: https://github.com/ClaudioDevv/UX_CaseStudy/blob/master/P1/Usability-review-template.pdf
+- Valoración final: <img width="2271" height="87" alt="image" src="https://github.com/user-attachments/assets/aacf3172-4bb6-449e-a692-195e56c55b7a" />
+- Comentario sobre la evaluación:
+  Algunos de los puntos fuertes de Goiko es su calidad fotográfica para identificar a los productos, la accesibilidad a la carta con un solo clic y una página que llama la atención y atrae a su principal público, los jóvenes
+  Sin embargo, el análisis también revela algunas debilidades importantes:
+    -  Falta  un buscador interno para buscar rápidamente
+    -  Falta de filtros en la carta para reducir opciones a elegir
+    -  No hay indicador de progreso en los distintos pasos a realizar cuando se realiza un pedido
+    -  Los mensajes de error a veces son muy genéricos, lo que aumenta la dificultad para encontrar el problema
+
 
 <br>
 
