@@ -177,15 +177,17 @@ Tras evaluar las distintas alternativas, se elige a **The Champions Burger** com
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+Ambas podrían ser personas reales, son personas que trabajan en puestos que requieren más esfuerzo mental lo que implica que necesiten desconectar y una de esas formas de desconectar sea a través de la comida y reuniones con amigos.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+<img width="1421" height="835" alt="Persona" src="https://github.com/user-attachments/assets/6a1b4139-9f09-4006-9175-83aaa6ddb41c" />
+
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+<img width="1243" height="978" alt="UserJourney" src="https://github.com/user-attachments/assets/cb4eb670-6df0-4b67-a1dd-f8c1fbf37d04" />
 
 
 ### 1.e Usability Review
