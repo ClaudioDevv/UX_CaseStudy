@@ -181,6 +181,8 @@ Ambas podrían ser personas reales, son personas que trabajan en puestos que req
 
 <img width="1421" height="835" alt="Persona" src="https://github.com/user-attachments/assets/6a1b4139-9f09-4006-9175-83aaa6ddb41c" />
 
+<img width="2260" height="1437" alt="image" src="https://github.com/user-attachments/assets/be8d5db4-9ed9-4865-a5c4-075836ed88f9" />
+
 
 
 ### 1.d User Journey Map
@@ -188,6 +190,8 @@ Ambas podrían ser personas reales, son personas que trabajan en puestos que req
 ----
 
 <img width="1243" height="978" alt="UserJourney" src="https://github.com/user-attachments/assets/cb4eb670-6df0-4b67-a1dd-f8c1fbf37d04" />
+
+<img width="1646" height="1281" alt="image" src="https://github.com/user-attachments/assets/4005c2f5-8cfc-4b86-94aa-fc45c62024e5" />
 
 
 ### 1.e Usability Review
