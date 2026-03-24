@@ -211,22 +211,14 @@ Ambas podrían ser personas reales, son personas que trabajan en puestos que req
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+Documento Empathy Map:  
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+<img width="4918" height="3945" alt="Empathy Customer Map Goiko" src="https://github.com/user-attachments/assets/42d46379-4501-4393-9a86-d0f07730a65e" />
+
 
 
 ### 2.b ScopeCanvas
