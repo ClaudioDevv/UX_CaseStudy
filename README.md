@@ -219,8 +219,9 @@ Documento Empathy Map:
   
 <img width="4918" height="3945" alt="Empathy Customer Map Goiko" src="https://github.com/user-attachments/assets/42d46379-4501-4393-9a86-d0f07730a65e" />
 
-
+  
 Feedback Capture Grid:  
+  
 | ➕ Aspectos Positivos | 🔧 Críticas Constructivas |
 |---|---|
 | Carta variada con hamburguesas de calidad premium y ingredientes frescos | Los tiempos de espera pueden ser elevados en horas punta sin sistema de avisos en la app |
@@ -249,9 +250,29 @@ Feedback Capture Grid:
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+- User task Matrix:
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+| Tarea                                      | Cliente Registrado | Cliente Invitado |
+|--------------------------------------------|--------------------|------------------|
+| Registrarse                                |                    | H                |
+| Iniciar sesión                             | H                  |                  |
+| Ver la carta / explorar menú               | H                  | H                |
+| **Crear hamburguesa personalizada**        | M                  | M                |
+| **Guardar combinación personalizada**      | M                  | L                |
+| Hacer un pedido a domicilio                | H                  | H                |
+| Reservar mesa en restaurante               | H                  | M                |
+| Añadir productos al carrito                | H                  | H                |
+| Aplicar cupones o descuentos               | M                  | L                |
+| Consultar historial de pedidos             | H                  |                  |
+| Repetir un pedido anterior                 | M                  |                  |
+| Gestionar datos personales y dirección     | M                  | L                |
+| Consultar estado del pedido en tiempo real | M                  | M                |
+| Consultar "Sobre nosotros"                 | L                  | L                |
+| Contacto / Atención al cliente             | M                  | M                |
+| Valorar un pedido o restaurante            | M                  | M                |
+   
+- User Flow
+  
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
