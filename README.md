@@ -211,13 +211,29 @@ Ambas podrían ser personas reales, son personas que trabajan en puestos que req
 
 ## Paso 2. UX Design  
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
 Documento Empathy Map:  
   
 <img width="4918" height="3945" alt="Empathy Customer Map Goiko" src="https://github.com/user-attachments/assets/42d46379-4501-4393-9a86-d0f07730a65e" />
+
+
+Feedback Capture Grid:  
+| ➕ Aspectos Positivos | 🔧 Críticas Constructivas |
+|---|---|
+| Carta variada con hamburguesas de calidad premium y ingredientes frescos | Los tiempos de espera pueden ser elevados en horas punta sin sistema de avisos en la app |
+| Ambiente cuidado y estética atractiva que invita a quedarse | El precio es superior a la media, lo que limita la frecuencia de visita |
+| Buena presencia en redes sociales con contenido apetecible | |
+| Opción de reserva online y pedido a domicilio bien integrado | |
+
+| ❓ Preguntas de Usuario | 💡 Ideas de Mejora |
+|---|---|
+| ¿Por qué no puedo ver el tiempo estimado de espera antes de ir? | Implementar un sistema de colas virtuales con notificación cuando tu mesa esté lista |
+| ¿Tienen alguna opción más económica para comer entre semana? | Crear menús de mediodía más asequibles de lunes a viernes |
+| ¿Puedo saber de dónde vienen los ingredientes que usan? | Añadir en la app y en la carta información sobre la trazabilidad y origen de los productos |
+| ¿Por qué no puedo personalizar mi hamburguesa como yo quiera? | Añadir un apartado de **hamburguesas personalizadas** donde cada consumidor pueda elegir pan, carne, salsas e ingredientes, guardar su combinación favorita en la app y pedirla fácilmente en futuras visitas |
 
 
 
