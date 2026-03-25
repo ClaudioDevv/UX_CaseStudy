@@ -280,11 +280,36 @@ Feedback Capture Grid:
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+- Sitemap para navegar por la web (está en formato SVG por lo tanto se puede ampliar sin perder calidad)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+
+![Sitemap Goiko](./P2/Sitemap.svg)  
+
+<br>
+- Labelling:
+
+
+| Label                  | Scope note                                                        |
+|------------------------|-------------------------------------------------------------------|
+| Inicio                 | Página principal con promociones, novedades y acceso rápido       |
+| Carta                  | Menú completo de hamburguesas, entrantes, bebidas y postr         |
+| Pedir                  | Acceso directo al proceso de pedido online                        |
+| Restaurantes           | Localizador de restaurantes Goiko                                 |
+| Promociones            | Ofertas, descuentos y campañas activas                            |
+| Mi cuenta              | Perfil del usuario, pedidos y datos personales                    |
+| Hamburguesas           | Listado de hamburguesas disponibles                               |
+| Entrantes              | Aperitivos y acompañamientos                                      |
+| Bebidas                | Refrescos, cervezas, etc.                                         |
+| Postres                | Dulces y postres                                                  |
+| Añadir al carrito      | Agregar producto al pedido                                        |
+| Mi carrito             | Ver productos seleccionados                                       |
+| Finalizar pedido       | Confirmar y pagar el pedido                                       |
+| Restaurante            | Elegir local para recogida o envío                                |
+| Mis pedidos            | Historial de pedidos realizados                                   |
+| Mis datos              | Información personal del usuario                                  |
+| Direcciones            | Direcciones guardadas para envío                                  |
+| Cerrar sesión          | Salir de la cuenta                                                |
+
 
 
 ### 2.d Wireframes
