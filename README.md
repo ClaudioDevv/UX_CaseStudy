@@ -271,8 +271,10 @@ Feedback Capture Grid:
 | Contacto / Atención al cliente             | M                  | M                |
 | Valorar un pedido o restaurante            | M                  | M                |
    
-- User Flow
-  
+- Nuestro Task Flow lo hemos hecho para el proceso de hacer un pedido
+
+<img width="318" height="821" alt="TaskFlow" src="https://github.com/user-attachments/assets/bfe8e11d-7adb-4b8c-839f-b85a961e9ad7" />  
+
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
