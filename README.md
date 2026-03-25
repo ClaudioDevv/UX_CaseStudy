@@ -241,8 +241,8 @@ Feedback Capture Grid:
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+<img width="1722" height="982" alt="image" src="https://github.com/user-attachments/assets/5128f93f-70d0-4c7d-8bc4-6634d1de365f" />
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
