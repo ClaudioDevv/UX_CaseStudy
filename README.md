@@ -315,6 +315,9 @@ Feedback Capture Grid:
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+![wireframe1](https://github.com/user-attachments/assets/4e187f98-a416-453b-aaae-ad14e779bb1c)
+<img width="1369" height="943" alt="wireframe" src="https://github.com/user-attachments/assets/3d7acabd-0d8b-415b-b0f8-952b96619efc" />
+
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
