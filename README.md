@@ -9,15 +9,16 @@ Grupo: DIU3_GPCR.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Mejora de Goiko
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra idea es mejorar el producto de Goiko añadiendo una experiencia más personalizable y familiar pudiendo personalizar hamburguesas, guardarlas y compartirlas con tus amigos.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img width=auto height="350" alt="Logo" src="https://github.com/user-attachments/assets/2251ab3e-ac15-4775-b430-895a0f615acc" />
+
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Gerardo Pérez Triviño     :octocat: https://github.com/Gerardoo280    
@@ -243,7 +244,6 @@ Feedback Capture Grid:
 ----
 <img width="1722" height="982" alt="image" src="https://github.com/user-attachments/assets/5128f93f-70d0-4c7d-8bc4-6634d1de365f" />
 
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 
 
@@ -319,26 +319,21 @@ Feedback Capture Grid:
 <img width="1369" height="943" alt="wireframe" src="https://github.com/user-attachments/assets/3d7acabd-0d8b-415b-b0f8-952b96619efc" />
 
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
-
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
-[Moodboard.pdf](https://github.com/user-attachments/files/27240383/Moodboard.pdf)
+![Método UX](img/moodboard.png)  
 
-
-
+<img width="8992" height="8512" alt="Moodboard" src="https://github.com/user-attachments/assets/28599696-320d-4f02-9ce6-d22da931eabd" />
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-[Goiko Landing Page.pdf](https://github.com/user-attachments/files/27240444/Goiko.Landing.Page.pdf)
+![Método UX](img/landing-page.png)   
 
+<img width="1299" height="917" alt="image" src="https://github.com/user-attachments/assets/79c354d2-8a59-4f8f-88ef-3a65a632d988" />
 
 ### 3.c Guidelines
 Los patrones usados en el diseño de la aplicación han sido los siguientes:
@@ -354,9 +349,9 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
-A continuación mostramos un pequeño video del funcionamiento de la app:
-[Screencast from 2026-04-30 12-44-29.webm](https://github.com/user-attachments/assets/f0ff8b8a-3ea9-472e-8b43-7835d7f056b0)
+![Método UX](img/mockup.png)  
+A continuación mostramos un pequeño video del funcionamiento de la app:  
+[Video-demostracion.webm](https://github.com/user-attachments/assets/f0ff8b8a-3ea9-472e-8b43-7835d7f056b0)
 
 <br>
 
