@@ -349,7 +349,8 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 - Pago: Formulario donde el usuario introduce los datos de pago (nombre, tarjeta, fecha, CVV), usando una interfaz bastante clara y sencilla.
 - Pago finalizado: Pantalla de confirmación que informa al usuario de que la transacción se ha realizado correctamente, mostrando un resumen del pedido.
 
-<img width="846" height="1046" alt="image" src="https://github.com/user-attachments/assets/c37d2757-4940-49d0-9da6-9dda2beb17c1" />
+[Design System Foundation (Community)-1.pdf](https://github.com/user-attachments/files/27240498/Design.System.Foundation.Community.-1.pdf)
+
 
 
 ### 3.d Mockup
