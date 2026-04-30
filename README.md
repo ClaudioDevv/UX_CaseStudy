@@ -336,13 +336,42 @@ Feedback Capture Grid:
 <img width="1299" height="917" alt="image" src="https://github.com/user-attachments/assets/79c354d2-8a59-4f8f-88ef-3a65a632d988" />
 
 ### 3.c Guidelines
-Los patrones usados en el diseño de la aplicación han sido los siguientes:
+El objetivo principal perseguido en la selección de los distintos elementos de la interfaz es 
+conseguir una experiencia visual coherente con la identidad de Goiko: oscura, premium y apetecible, 
+pero al mismo tiempo intuitiva y sencilla para el usuario. Para ello se ha partido de los principios 
+del diseño móvil, adaptando cada patrón a la paleta, tipografía y estilo visual definidos 
+en el moodboard (fondo negro, rojo corporativo, tipografía bold en blanco y fotografía de producto 
+en alta calidad).
 
-- Home (Onboarding): Página principal que ve el usuario al entrar en la aplicación, donde se muestran los productos destacados y las diferentes categorías disponibles como burgers, menú, postres.. y botones para reservar o para personalizar la hamburguesa. Al final de la misma tenemos el footer con información relevante para el usuario.
-- Customización de producto: Pantalla donde el usuario puede personalizar su hamburguesa (pan, carne, vegetales, extras, salsas), permitiendo una experiencia flexible y adaptada a sus gustos.
-- Carrito: Vista donde se muestran los productos seleccionados, con su precio, cantidad y opción de eliminar del carrito, además de mostrar el precio final del pedido.
-- Pago: Formulario donde el usuario introduce los datos de pago (nombre, tarjeta, fecha, CVV), usando una interfaz bastante clara y sencilla.
-- Pago finalizado: Pantalla de confirmación que informa al usuario de que la transacción se ha realizado correctamente, mostrando un resumen del pedido.  
+Los patrones utilizados para esta práctica son los siguientes:
+
+- **Home (Onboarding):** Pantalla principal que recibe al usuario con una imagen de producto 
+y accesos directos a las categorías (Burgers, Menú, Postres, Toda la Carta). Incluye dos botones 
+destacados en cabecera: *Crea tu hamburguesa* y *Reservar*, en rojo y blanco para maximizar su 
+visibilidad. El footer recoge los enlaces de navegación secundaria organizados en bloques
+
+- **Barra de navegación superior:** Cabecera fija con el logotipo a la izquierda, icono de menú 
+hamburguesa y los botones de acción principales a la derecha. Se mantiene consistente en todas 
+las pantallas, garantizando acceso permanente a las acciones clave independientemente de la pantalla en que se encuentre el usuario.
+
+- **Customización de producto:** Pantalla diferenciadora donde el usuario construye su hamburguesa 
+mediante secciones etiquetadas con iconos (Pan, Carne, Vegetales, Extras, Salsas) y controles 
++/− para cada ingrediente. Al final se presentan dos acciones diferenciadas: *Guardar Burger* como 
+acción secundaria y *Añadir al carrito* en rojo como acción principal.
+
+- **Carrito:** Vista de resumen que lista los productos añadidos con imagen, nombre, personalización y 
+precio. Muestra el total acumulado en la parte inferior 
+junto al botón *Pagar*, permitiendo al usuario revisar y confirmar su pedido de forma rápida.
+
+- **Formulario de pago:** Pantalla de introducción de datos bancarios con sus campos correspondientes 
+(titular, número de tarjeta, caducidad y CVV) sobre fondo oscuro con bordes blancos para garantizar 
+el contraste. El botón *Pagar* en rojo cierra la pantalla de forma clara y reconocible.
+
+- **Confirmación de pago:** Pantalla de feedback positivo con un icono de verificación en verde y 
+resumen estructurado del pedido (fecha, hora, envío, método de pago y subtotal). Ofrece dos 
+acciones finales: *Ver estado del pedido* en rojo y *Descargar Factura* en blanco, manteniendo 
+la jerarquía visual del resto de la aplicación.
+
 <img width="4248" height="4998" alt="Design System Foundation (Community)-2_page-0001" src="https://github.com/user-attachments/assets/d79fbdea-3e90-46da-bda6-0e30884689b5" />
 
 Enlace al pdf para verlo con más calidad:  
@@ -358,7 +387,11 @@ A continuación mostramos un pequeño video del funcionamiento de la app:
 
 Enlace al prototipo figma: https://www.figma.com/proto/iauLl7MihwQzk5mJwPHjfW/Design-System-Foundation--Community-?node-id=108-94&starting-point-node-id=108%3A94&t=nYBXzLKxy9vfDrHI-1
 
+## 3.e Briefing
+El proyecto ha consistido en el rediseño de la experiencia digital de Goiko, siguiendo una metodología UX estructurada que abarcó desde la investigación y empatía con el usuario (Empathy Map, Feedback Capture Grid) hasta el prototipado final en Figma, pasando por la definición del alcance (Scope Canvas), la arquitectura de información (Sitemap, Labelling) y el diseño visual (Moodboard, Design System). El principal punto fuerte del diseño es la incorporación de un configurador de hamburguesa personalizada, detectado como necesidad real durante el análisis. Como herramientas de apoyo se utilizaron Figma para todo el proceso de diseño y prototipado, y herramientas de IA generativa como ChatGPT o Claude para acelerar las fases de ideación y documentación, resultando especialmente efectivas para estructurar el pensamiento de diseño, aunque las decisiones finales requirieron siempre criterio humano. En conjunto, el proyecto demuestra que combinar metodología UX rigurosa con herramientas modernas permite llegar a soluciones más fundamentadas y centradas en el usuario.
+
 <br>
+
 
 ## Paso 4. Pruebas de Evaluación 
 
