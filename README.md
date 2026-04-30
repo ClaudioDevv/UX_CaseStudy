@@ -325,39 +325,37 @@ Feedback Capture Grid:
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
------
+[Moodboard.pdf](https://github.com/user-attachments/files/27240383/Moodboard.pdf)
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+
+
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
-----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+[Goiko Landing Page.pdf](https://github.com/user-attachments/files/27240444/Goiko.Landing.Page.pdf)
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+Los patrones usados en el diseño de la aplicación han sido los siguientes:
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+- Home (Onboarding): Página principal que ve el usuario al entrar en la aplicación, donde se muestran los productos destacados y las diferentes categorías disponibles como burgers, menú, postres.. y botones para reservar o para personalizar la hamburguesa. Al final de la misma tenemos el footer con información relevante para el usuario.
+- Customización de producto: Pantalla donde el usuario puede personalizar su hamburguesa (pan, carne, vegetales, extras, salsas), permitiendo una experiencia flexible y adaptada a sus gustos.
+- Carrito: Vista donde se muestran los productos seleccionados, con su precio, cantidad y opción de eliminar del carrito, además de mostrar el precio final del pedido.
+- Pago: Formulario donde el usuario introduce los datos de pago (nombre, tarjeta, fecha, CVV), usando una interfaz bastante clara y sencilla.
+- Pago finalizado: Pantalla de confirmación que informa al usuario de que la transacción se ha realizado correctamente, mostrando un resumen del pedido.
+
+<img width="846" height="1046" alt="image" src="https://github.com/user-attachments/assets/c37d2757-4940-49d0-9da6-9dda2beb17c1" />
 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+A continuación mostramos un pequeño video del funcionamiento de la app:
+[Screencast from 2026-04-30 12-44-29.webm](https://github.com/user-attachments/assets/f0ff8b8a-3ea9-472e-8b43-7835d7f056b0)
 
 <br>
 
