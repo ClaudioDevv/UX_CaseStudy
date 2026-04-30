@@ -342,8 +342,10 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 - Customización de producto: Pantalla donde el usuario puede personalizar su hamburguesa (pan, carne, vegetales, extras, salsas), permitiendo una experiencia flexible y adaptada a sus gustos.
 - Carrito: Vista donde se muestran los productos seleccionados, con su precio, cantidad y opción de eliminar del carrito, además de mostrar el precio final del pedido.
 - Pago: Formulario donde el usuario introduce los datos de pago (nombre, tarjeta, fecha, CVV), usando una interfaz bastante clara y sencilla.
-- Pago finalizado: Pantalla de confirmación que informa al usuario de que la transacción se ha realizado correctamente, mostrando un resumen del pedido.
+- Pago finalizado: Pantalla de confirmación que informa al usuario de que la transacción se ha realizado correctamente, mostrando un resumen del pedido.  
+<img width="4248" height="4998" alt="Design System Foundation (Community)-2_page-0001" src="https://github.com/user-attachments/assets/d79fbdea-3e90-46da-bda6-0e30884689b5" />
 
+Enlace al pdf para verlo con más calidad:  
 [Design System Foundation (Community)-1.pdf](https://github.com/user-attachments/files/27240498/Design.System.Foundation.Community.-1.pdf)
 
 
@@ -351,7 +353,10 @@ Los patrones usados en el diseño de la aplicación han sido los siguientes:
 ### 3.d Mockup
 ![Método UX](img/mockup.png)  
 A continuación mostramos un pequeño video del funcionamiento de la app:  
+
 [Video-demostracion.webm](https://github.com/user-attachments/assets/f0ff8b8a-3ea9-472e-8b43-7835d7f056b0)
+
+Enlace al prototipo figma: https://www.figma.com/proto/iauLl7MihwQzk5mJwPHjfW/Design-System-Foundation--Community-?node-id=108-94&starting-point-node-id=108%3A94&t=nYBXzLKxy9vfDrHI-1
 
 <br>
 
